@@ -35,7 +35,7 @@ public class triangulo {
             String tipo = tipoTriangulo(L1, L2, L3);
             System.out.println("É um triângulo " + tipo);
         } else {
-            System.out.println("Não é um triângulo");
+            System.out.println("Não é um triângulo ");
         }
     }
 }
